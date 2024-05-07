@@ -1,0 +1,7 @@
+{
+  "name": "unuse-vue",
+  "dependencies": {
+    "@vue/tsconfig": "^0.5.1",
+    "vue": "^3.4.27"
+  }
+}
